@@ -16,8 +16,6 @@
 
 /// what's new? (1.3)
 /// - constructori - cu parametri
-///               - de copiere
-/// - multiple shapes at once? (x)
 /// - moduri diferite de display (doar modifici cum se modifica delta x,y,z)
 /// - new shapes!
 #include <cmath>
